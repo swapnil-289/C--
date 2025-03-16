@@ -3,5 +3,5 @@ int main(){
     std:: cout << "swapnil";
     std:: cout << "srivastav";
     
-    return 0;
+    return 1;
 }
